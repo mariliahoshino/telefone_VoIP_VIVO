@@ -18,11 +18,11 @@ Ir em Management ->Settings -> Backup Botão Backup Settings
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/001.png?raw=true" widht="400" >
 
 Será feito o dowload do arquivo
-Abrir o arquivo e pesquisar por *<SIP>*
+Abrir o arquivo e pesquisar por *SIP*
   
 Irá achar duas informações
-<AuthUserName> e
-<AuthPassword>
+*AuthUserName* e
+*AuthPassword*
 Copie a senha nesse campo
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/002.png?raw=true" widht="400" >
 

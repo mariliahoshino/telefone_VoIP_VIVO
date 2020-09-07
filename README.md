@@ -9,35 +9,35 @@ Nesse tutorial é ensinado como obter os dados de login e senha para conseguir u
 
 Primeiramente entrando no roteador como administrador
 
-192.168.1.1/padrao
+**192.168.1.1/padrao**
 
-login support
-senha debaixo do roteador
+login **support** <br>
+senha **debaixo do roteador** <br>
 
 Ir em Management ->Settings -> Backup Botão Backup Settings
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/001.png?raw=true" widht="400" >
 
-Será feito o dowload do arquivo
-Abrir o arquivo e pesquisar por *SIP*
+Será feito o dowload do arquivo <br>
+Abrir o arquivo e pesquisar por **SIP**
   
-Irá achar duas informações
-*AuthUserName* e
-*AuthPassword*
-Copie a senha nesse campo
+Irá achar duas informações <br>
+**AuthUserName** e <br>
+**AuthPassword** <br>
+Copie a senha nesse campo <br>
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/002.png?raw=true" widht="400" >
 
     
-Ir no site
+Ir no site <br>
 https://www.base64decode.org/
 
-Cole essa senha e clique em converter, será obtida a senha real
+Cole essa senha e clique em converter, será obtida a senha real <br>
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/003.png?raw=true" widht="400" >
 
-Copie essa senha 
-Acesse o aparelho VoIP da intelbras
-Na parte Usuário -> Usuário 1
-preencher conforme a imagem, tendo o seu número de telefone que deverá ser digitado 
-e no campo senha colar a senha obitido do site
+Copie essa senha <br>
+Acesse o aparelho VoIP da intelbras <br>
+Na parte Usuário -> Usuário 1 <br>
+preencher conforme a imagem, tendo o seu número de telefone que deverá ser digitado <br>
+e no campo senha colar a senha obitido do site <br>
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/004.png?raw=true" widht="400" >
 
 fontes

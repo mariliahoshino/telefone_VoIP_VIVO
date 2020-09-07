@@ -15,6 +15,7 @@ login support
 senha debaixo do roteador
 
 Ir em Management ->Settings -> Backup Botão Backup Settings
+<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/001.png?raw=true" widht="400" >
 
 Será feito o dowload do arquivo
 Abrir o arquivo e pesquisar por *<SIP>*
@@ -23,17 +24,21 @@ Irá achar duas informações
 <AuthUserName> e
 <AuthPassword>
 Copie a senha nesse campo
+<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/002.png?raw=true widht="400" >
+
     
 Ir no site
 https://www.base64decode.org/
 
 Cole essa senha e clique em converter, será obtida a senha real
+<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/003.png?raw=true widht="400" >
 
 Copie essa senha 
 Acesse o aparelho VoIP da intelbras
 Na parte Usuário -> Usuário 1
 preencher conforme a imagem, tendo o seu número de telefone que deverá ser digitado 
 e no campo senha colar a senha obitido do site
+<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/004.png?raw=true widht="400" >
 
 fontes
 https://forum.vivo.com.br/threads/114368-Configura%C3%A7%C3%A3o-SIP <br>

@@ -38,7 +38,7 @@ Acesse o aparelho VoIP da intelbras <br>
 Na parte Usuário -> Usuário 1 <br>
 preencher conforme a imagem, tendo o seu número de telefone que deverá ser digitado <br>
 e no campo senha colar a senha obtido do site <br>
-<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/004.png?raw=true" widht="400" >
+<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/004-5.png?raw=true" widht="400" >
 
 fontes <br>
 https://forum.vivo.com.br/threads/114368-Configura%C3%A7%C3%A3o-SIP <br>

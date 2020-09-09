@@ -40,6 +40,8 @@ preencher conforme a imagem, tendo o seu número de telefone que deverá ser dig
 e no campo senha colar a senha obtido do site <br>
 <img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/004-5.png?raw=true" widht="400" >
 
+Reinicia o aparelho VoIP da Intelbras e esperar carregar, testar ligando e recebendo chamadas e pronto a configuração <br>
+
 fontes <br>
 https://forum.vivo.com.br/threads/114368-Configura%C3%A7%C3%A3o-SIP <br>
 

@@ -42,6 +42,9 @@ e no campo senha colar a senha obtido do site <br>
 
 Reinicia o aparelho VoIP da Intelbras e esperar carregar, testar ligando e recebendo chamadas e pronto a configuração <br>
 
+Deverá ficar assim a página inicial do aparelho VoIP<br>
+<img src="https://github.com/mariliahoshino/telefone_VoIP_VIVO/blob/master/pictures/005.png?raw=true" widht="400" > <br>
+
 fontes <br>
 https://forum.vivo.com.br/threads/114368-Configura%C3%A7%C3%A3o-SIP <br>
 
